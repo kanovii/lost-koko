@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+    width: 100%;
+}
+
+.chaBox {
+    background-color: darkgrey;
+    margin-top: 30px;
+    padding: 30px 0;
+}
+
+.nameof {
+    background-color: darkgrey;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.chaImg {
+    width: 500px;
+    border-radius: 7%;
+    margin-top: 5px;
+}
+
+.oneJNume {
+    font-weight: bold;
+}
