@@ -30,11 +30,17 @@ function App() {
                     console.log(res);
                     setChainfo(res);
                     console.log('입' + chaInfo + '입');
+                    //검색 실패시 캐릭터 박스 안보이게 하는 if 문
+                    if (res.data === null) {
+                        setIsSearched(false);
+                        alert('존재하지 않는 아크라시아인입니다.');
+                    } else {
+                        setIsSearched(true); // 검색 성공시 캐릭터 박스 노출
+                    }
                 });
         } catch (error) {
             console.error(error);
         }
-        setIsSearched(true);
     };
 
     return (
