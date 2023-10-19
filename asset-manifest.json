@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lost-koko/static/css/main.280f2e23.css",
+    "main.css": "/lost-koko/static/css/main.c37175bc.css",
     "main.js": "/lost-koko/static/js/main.476600cd.js",
     "index.html": "/lost-koko/index.html",
-    "main.280f2e23.css.map": "/lost-koko/static/css/main.280f2e23.css.map",
+    "main.c37175bc.css.map": "/lost-koko/static/css/main.c37175bc.css.map",
     "main.476600cd.js.map": "/lost-koko/static/js/main.476600cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.280f2e23.css",
+    "static/css/main.c37175bc.css",
     "static/js/main.476600cd.js"
   ]
 }
