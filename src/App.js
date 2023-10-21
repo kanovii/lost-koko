@@ -1,11 +1,14 @@
-import { useEffect, useState } from 'react';
 import './App.css';
-import axios from 'axios';
-import ChaBox from './Components/ChaBox';
-import Search from './Components/Search';
+import NavBar from './Components/NavBar';
+import { Outlet } from 'react-router-dom';
 
 function App() {
-    return <Search />;
+    return (
+        <div>
+            <NavBar />
+            <Outlet />
+        </div>
+    );
 }
 
 export default App;

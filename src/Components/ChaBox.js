@@ -1,6 +1,6 @@
 export default function ChaBox({ isSearched, CharacterImage, characterName, ExpeditionLevel }) {
     return (
-        <>
+        <div>
             {isSearched ? (
                 //캐릭터 박스 시작
                 <div className='chaBox'>
@@ -14,6 +14,6 @@ export default function ChaBox({ isSearched, CharacterImage, characterName, Expe
                 //캐릭터 박스 끝
                 <></>
             )}
-        </>
+        </div>
     );
 }
