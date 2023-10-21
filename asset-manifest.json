@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/lost-koko/static/css/main.9078ab61.css",
-    "main.js": "/lost-koko/static/js/main.e2e02773.js",
+    "main.css": "/lost-koko/static/css/main.6e72b12b.css",
+    "main.js": "/lost-koko/static/js/main.fab47cc8.js",
+    "static/media/대지 3.png": "/lost-koko/static/media/대지 3.ccec48b877f737723efd.png",
     "index.html": "/lost-koko/index.html",
-    "main.9078ab61.css.map": "/lost-koko/static/css/main.9078ab61.css.map",
-    "main.e2e02773.js.map": "/lost-koko/static/js/main.e2e02773.js.map"
+    "main.6e72b12b.css.map": "/lost-koko/static/css/main.6e72b12b.css.map",
+    "main.fab47cc8.js.map": "/lost-koko/static/js/main.fab47cc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9078ab61.css",
-    "static/js/main.e2e02773.js"
+    "static/css/main.6e72b12b.css",
+    "static/js/main.fab47cc8.js"
   ]
 }
